@@ -1,0 +1,19 @@
+body{
+    background-color: paleturquoise;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Seletor de classe */
+.titulo{
+    text-align: center;
+    margin: 4%;
+
+}
+
+li{
+    display: inline;
+    padding: 7%;
+}
+
+section{
+    border-bottom: solid;
+}
